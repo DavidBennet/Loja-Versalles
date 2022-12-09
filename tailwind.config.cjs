@@ -5,9 +5,21 @@ module.exports = {
     './index.html',
   ],
   theme: {
-    extend: {},
-    fontFamily: {
-      'Oswald': 'Oswald',
+    extend: {
+      fontFamily: {
+        Oswald: 'Oswald, sans-serif',
+        Lobster: 'Lobster, sans'
+      },
+      screens: {
+        'tablet': '640px',
+        // => @media (min-width: 640px) { ... }
+  
+        'laptop': '1024px',
+        // => @media (min-width: 1024px) { ... }
+  
+        'desktop': '1280px',
+        // => @media (min-width: 1280px) { ... }
+      },
     }
   },
   plugins: [
