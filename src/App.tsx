@@ -188,7 +188,7 @@ export function App() {
               <Links 
                 icon="./src/assets/shopeeTransp-500.png"
                 description="Link para nossa página na Shopee" 
-                adress="bbb"           
+                adress="https://shopee.com.br/lojaversalles?categoryId=100011&entryPoint=ShopByPDP&itemId=21250903622"           
               />
               
               <Links 
@@ -209,7 +209,7 @@ export function App() {
               <Links 
                 icon="./src/assets/whatsapp-500.png" 
                 description="Link para falar conosco via WhatsApp" 
-                adress="ccc"                
+                adress="https://web.whatsapp.com/send?phone=5581993840074"                
               />              
               
             </div>
