@@ -45,9 +45,8 @@ Esse projeto está sob a licença MIT.
 
 Feito com ♥ by David Bennet DEV freelance 
      https://www.instagram.com/benetdavid <br>
-     WhatsApp <br>
      <a 
         href="https://web.whatsapp.com/send?phone=5581973296068" target="_blank"
-    ></a>
+    >WhatsApp</a>
      
 
