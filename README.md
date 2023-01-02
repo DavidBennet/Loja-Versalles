@@ -48,8 +48,6 @@ Feito com ♥ by David Bennet DEV freelance
      WhatsApp <br>
      <a 
         href="https://web.whatsapp.com/send?phone=5581973296068" target="_blank"
-    >
-        <img src="./assets/whatsapp-500.png" alt="número do whasapp" width="8%"/>
-    </a>
+    ></a>
      
 
