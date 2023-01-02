@@ -15,10 +15,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Lojas Versalles" src="./assets/logoTransparente.png" width="40%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
